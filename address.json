@@ -1,0 +1,9 @@
+{
+  "infos": [
+    { "address": "", "tokenBal": 10 },
+    { "address": "", "tokenBal": 20 },
+    { "address": "", "tokenBal": 30 },
+    { "address": "", "tokenBal": 40 },
+    { "address": "", "tokenBal": 50 }
+  ]
+}
